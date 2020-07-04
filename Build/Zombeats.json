@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project Zombie V2",
+"productVersion": "0.1",
+"dataUrl": "Zombeats.data.unityweb",
+"wasmCodeUrl": "Zombeats.wasm.code.unityweb",
+"wasmFrameworkUrl": "Zombeats.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#0091FF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
